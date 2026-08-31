@@ -449,7 +449,7 @@ Pathfinder should apply zone-pair logic at every service boundary — student up
 ---
 
 ### Questions
-![Description](Assets/task5sna.png)
+![Task 5 - Correct Zone-Pair Configuration](https://raw.githubusercontent.com/Santyadhi87/Security-Engineer/1130d23f505f2f1777e7d99ed6968be4d78dcc8b/Assets/task5sna.png)
 
 | Question | Answer |
 |----------|--------|
